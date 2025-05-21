@@ -1,5 +1,5 @@
 :root {
-  --width: 80vw;
+  --width: 70vw;
   --gap: 1rem;
 }
 html {
@@ -99,6 +99,7 @@ body {
   align-items: center;
   gap: 3rem;
   padding: 5rem;
+  width: var(--width);
 }
 .cards {
   display: flex;
