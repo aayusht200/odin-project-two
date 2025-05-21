@@ -2,6 +2,10 @@
   --width: 80vw;
   --gap: 1rem;
 }
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
