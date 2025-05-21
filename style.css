@@ -114,6 +114,10 @@ body {
   color: #1f2937;
   font-size: 13px;
 }
+.card > .heading {
+  font-weight: 500;
+  font-size: 15px;
+}
 .card-img {
   width: 120px;
   height: 150px;
